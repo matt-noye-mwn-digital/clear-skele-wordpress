@@ -1,4 +1,5 @@
 # Ignore all files and directories except the theme folder
+.htaccess
 /wp-admin/
 /wp-admin/*
 /wp-content/plugins
@@ -8,6 +9,10 @@
 /wp-content/themes/twentytwentytwo/
 /wp-content/themes/index.php
 /wp-content/index.php
+/wp-content/languages/
+/wp-content/upgrade/
+/wp-content/upgrade-temp-backup/
+/wp-content/uploads/
 /wp-includes/
 /index.php
 /readme.html
