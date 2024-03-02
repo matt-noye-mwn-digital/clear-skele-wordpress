@@ -1,0 +1,24 @@
+//Core Styles
+@import "core/wordpress";
+@import "core/mixins";
+@import "site/coreStyles";
+@import "site/fonts";
+@import "site/colours";
+@import "site/customButtons";
+@import "site/typography";
+
+
+//Header
+
+//Partials
+
+//Blocks
+
+//Pages
+
+//Footer
+@import "partials/footer";
+
+//Responsive Styles
+@import "responsive-styles/mobile";
+@import "responsive-styles/tablet";
