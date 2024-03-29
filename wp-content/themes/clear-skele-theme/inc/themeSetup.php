@@ -25,3 +25,5 @@
     }
     add_filter('excerpt_more', 'remove_excerpt_more');
 
+    //Remove auto P from CF7
+    add_filter('wpcf7_autop_or_not', '__return_false');
