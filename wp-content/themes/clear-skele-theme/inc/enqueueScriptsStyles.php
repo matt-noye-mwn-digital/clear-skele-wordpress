@@ -6,7 +6,6 @@
             wp_enqueue_style('fontAwesome6', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
             wp_enqueue_style('slickStyle', get_template_directory_uri().'/assets/css/slick.css');
             wp_enqueue_style('animateCss', get_template_directory_uri().'/assets/css/animate.css');
-
             wp_enqueue_style('mainCustomStyles', get_template_directory_uri().'/assets/css/main.min.css');
 
 
