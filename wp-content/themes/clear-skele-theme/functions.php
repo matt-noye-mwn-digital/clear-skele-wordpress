@@ -8,4 +8,4 @@
     require get_template_directory().'/inc/customizer.php';
     require get_template_directory().'/inc/class-wp-bootstrap-navwalker.php';
     require get_template_directory().'/inc/plugin_includes.php';
-    
+    require get_template_directory().'/inc/addSvgSupport.php';
