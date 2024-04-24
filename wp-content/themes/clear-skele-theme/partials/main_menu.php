@@ -8,7 +8,7 @@
                     <img src="<?=get_template_directory_uri();?>/assets/images/image-coming-soon.jpg" alt="" class="navbar-brand-image-temp" style=' height: 75px; margin:0; width: auto'>
                 <?php endif; ?>
             </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
             </button>
             <?php 
