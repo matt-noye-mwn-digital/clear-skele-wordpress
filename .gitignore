@@ -32,6 +32,9 @@
 /xmlrpc.php
 /LICENSE
 
+/wp-content/themes/clear-skele-theme/node_modules/
+/wp-content/themes/clear-skele-theme/node_modules/*
+
 #Dont Ignore
 !.gitignore
 !/wp-content/themes/your-theme-folder
