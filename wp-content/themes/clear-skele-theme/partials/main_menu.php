@@ -1,7 +1,7 @@
 <header>
     <div class="container">
         <nav class="navbar navbar-expand-lg">
-            <a href="" class="navbar-brand">
+            <a href="<?=bloginfo('url');?>" class="navbar-brand">
                 <?php if(get_field('main_logo', 'option')): ?>
                     <img src="<?=get_field('main_logo', 'option');?>" alt="" class="navbar-brand-image">
                 <?php else: ?>
